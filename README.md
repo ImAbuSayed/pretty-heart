@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pretty-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pretty Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pretty-heart/) |
+| **Get License** | [Official Music Licensing for Pretty Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pretty-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight's calling out your name, soft and low
+> Got a fire in my chest only you can know
+> Slide a little closer, let the shadows fall
+> You're the only beautiful thing I want to hold
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
